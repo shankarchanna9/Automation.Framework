@@ -17,4 +17,6 @@ public class loginPageTest extends loginPage {
 		// TODO Auto-generated method stub
 		super.login();
 	}
+	
+	//added random lines
 }
